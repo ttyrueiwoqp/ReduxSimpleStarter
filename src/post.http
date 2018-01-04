@@ -1,0 +1,10 @@
+POST http://reduxblog.herokuapp.com/api/posts?key=PAPERCLIP1234
+Content-Type: application/json
+
+{
+"categories": "dafsdaf",
+"content": "dsfasdf",
+"title": "asdlf"
+}
+
+###
